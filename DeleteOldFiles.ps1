@@ -12,7 +12,7 @@
 
 param (
     [string]$TargetFolder = "C:\Users\abmozid\Pictures\Screenshots",  # Change this to your target path
-    [int]$DaysOld = 7,
+    [int]$DaysOld = 10,
     [string]$LogFile = "C:\Users\abmozid\Pictures\Screenshots\FileCleanup.log"       # Change log path if needed
 )
 
